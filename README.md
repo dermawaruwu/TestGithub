@@ -1,2 +1,4 @@
 # TestGithub
-GitHub Test
+========
+
+GitHub repository for test example only
