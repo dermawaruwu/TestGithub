@@ -1,7 +1,7 @@
 git init
-git clone (url)
+git clone (url) // You can use Shift+Ins to paste
 git add (file names)
-git commit -m "(committed message)
+git commit -m "(committed message)"
 git remote add origin master (url)
 git push -u origin master
 git pull origin master
